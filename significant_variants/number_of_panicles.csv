@@ -1,0 +1,9 @@
+Variant ID;Chromosome;Position;Detection method;Data set;Variant type;Length (bp);TE;Frequency;P-value*;Effect+;Gene(s) in 2 Kb proximity;Gene(s) coordiantes;Position(s) respect the gene(s);Overlapping Related QTL in SNP-seek
+SNP:1:5325910;1;5325910;BLINK;SNPs;SNP;1;-;0.276;0.000000384;-;Os01g019800 (OsRDR4/OsRDR3b);chr01:5307415..5324478 (-strand);Upstream;Yes
+DEL:1:23382457..23383847;1;23382457;BLINK;SVs;SV;-1390;Os1193;0.276;0.00000005;-;-;-;-;No
+DEL:1:34673205..34673661;1;34673205;BLINK;SVs;SV;-456;Os0031;0.209;9.3E-09;-;Os01g0815400 (conserved hypothetical);chr01:34674484..34676184 (- strand);Downstream;No
+SNP:3:27419149;3;27419149;BLINK;SNPs;SNP;1;-;0.215;2.65E-08;-;"Os03g0687000 (OsNPF2.4/OsPTR2); Os03g0687100 (Hypothetical)";"chr03:27413550..27418774 (- strand); chr03:27413822..27418324 (+ strand)";"Upstream; Downstream";No
+SNP:3:28422842;3;28422842;GLM;SNPs, SVs+SNPs;SNP;1;-;0.233;6.19E-08;3.47;-;-;-;No
+DEL:4:32283937..32285958;4;32283937;BLINK;SVs;SV;-2021;-;0.515;4.68E-14;-;"Os04g0634600 (hypothetical); Os04g0634700 (OsDGK1/OsBIDK1)";"chr04:32283986..32285649 (+ strand); chr04:32286661..32291433 (+ strand)";"Deletes the whole gene; Upstream";Yes
+INS:9:674375..674375;9;674375;BLINK;SVs;SV;109;-;0.251;8.34E-08;-;-;-;-;No
+SNP:10:10101483;10;10101483;BLINK;SVs+SNPs;SNP;1;-;0.245;9.99E-10;-;Os10g0341750 (Hypothetical);chr10:10101815..10104190 (+ strand);Upstream;No
