@@ -3,5 +3,7 @@ This folder contains the tables with the significant variants detected by the GW
 Variant ID |	Chromosome	| Position	| Detection method	| Data set	| Variant type	| Length (bp)	| TE*	| Frequency	| P-value-	| Effect+	| Gene(s) in 2 Kb proximity	| Gene(s) coordiantes	| Position(s) respect the gene(s)	| Overlapping related QTL in SNP-seek
 
 TE*: only for SVs. SV annotation as transposable element
+
 P-value-: lowest P-value calculated
+
 Effect+: largest effect calculated
